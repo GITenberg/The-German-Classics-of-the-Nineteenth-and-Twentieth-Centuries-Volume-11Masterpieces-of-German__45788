@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3853
     wikipedia: http://en.wikipedia.org/wiki/Kuno_Francke
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45788#The-German-Classics-of-the-Nineteenth-and-Twentieth-Centuries-Volume-11Masterpieces-of-German_
 gutenberg_issued: '2014-05-27'
 gutenberg_type: Text
 identifiers:
