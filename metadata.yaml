@@ -1,0 +1,33 @@
+_repo: The-German-Classics-of-the-Nineteenth-and-Twentieth-Centuries-Volume-11Masterpieces-of-German__45788
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45788-h/images/cover.jpg
+creator:
+  editor:
+    agent_name: Francke, Kuno
+    birthdate: 1855
+    deathdate: 1930
+    gutenberg_agent_id: '3853'
+    url: http://www.gutenberg.org/2009/agents/3853
+    wikipedia: http://en.wikipedia.org/wiki/Kuno_Francke
+description: ''
+gutenberg_issued: '2014-05-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45788'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German literature -- 20th century -- Translations into English'
+- !lcc 'PT'
+- !lcsh 'German literature -- 19th century -- Translations into English'
+tableOfContents: 'Friedrich Spielhagen: Storm Flood -- Theodor Storm: The rider of
+  the white horse. To a deceased. The city. The heath. Consolation -- Wilhelm Raabe:
+  The hunger pastor.'
+title: 'The German Classics of the Nineteenth and Twentieth Centuries, Volume 11
+
+  Masterpieces of German Literature Translated Into English'
+url: http://www.gutenberg.org/ebooks/45788
